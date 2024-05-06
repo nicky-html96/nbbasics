@@ -7,4 +7,4 @@ Intro to notebook based computing for the aap course. Includes
 * Netflix and notebooks
 * the future of notebook computing?
 
-Let make sure to stay on track with the homework that the teacher provided.Jupyter notebooks are terrific
+Let make sure to stay on track with the homework that the teacher provided.
